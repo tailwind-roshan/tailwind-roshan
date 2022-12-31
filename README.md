@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills<br>🔗I’m not looking to collaborate on<br>🌱 I’m currently learning C<br>💬 Ask me out<br>😼Fun fact can code a meme
+🔭 I’m currently working on improving my skills<br>🔗I’m not looking to collaborate on<br>🌱 I’m currently learning C<br>
 
-
+💬 Ask me out
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/COLDZEUS-II) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alsoROSHAN) 
 
