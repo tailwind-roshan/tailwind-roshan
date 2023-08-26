@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills<br>🔗I’m not looking to collaborate on<br>🌱 I’m currently learning C<br>
+🔭 I’m currently working on improving my skills<br>🔗I’m not looking to collaborate on<br>🌱 I’m currently learning Object Oriented Programming<br>
 
 💬 Ask me out
 ## 🌐 Socials:
